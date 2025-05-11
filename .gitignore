@@ -1,5 +1,2 @@
-/target/
-.classpath
-.project
-.settings/
-*.csv
+/.classpath
+/.project
